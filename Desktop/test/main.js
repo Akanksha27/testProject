@@ -5,7 +5,7 @@ describe('Controller: MainCtrl', function () {
   // load the controller's module
   beforeEach(module('testPocApp'));
 
-  var MainCtrl,
+  var MainCtrl222,
     scope;
 
   // Initialize the controller and a mock scope
